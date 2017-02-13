@@ -28,6 +28,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/shim/Desktop/je-7.3.7/je-7.3.7/lib/je-6.4.25.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/hbase-demo/lib/je-6.4.25.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
